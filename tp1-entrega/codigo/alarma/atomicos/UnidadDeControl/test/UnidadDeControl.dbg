@@ -1,0 +1,1840 @@
+[UnidadDeControl][externalFunction][B] (00:00:00:100) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ESPERANDO
+
+[UnidadDeControl][externalFunction][E] (00:00:00:100) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:110) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+[UnidadDeControl][internalFunction][E] (00:00:00:110) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:112) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:00:112) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:00:210) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:00:210) ::-::
+.sonido = <>
+.apertura = <1>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:220) ::-::
+.sonido = <>
+.apertura = <1>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:00:220) ::-::
+.sonido = <>
+.apertura = <1>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:00:230) ::-::
+.sonido = <>
+.apertura = <1>
+.movimiento = <>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:00:230) ::-::
+.sonido = <>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:240) ::-::
+.sonido = <>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:00:240) ::-::
+.sonido = <>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:00:250) ::-::
+.sonido = <>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:00:250) ::-::
+.sonido = <0>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:260) ::-::
+.sonido = <0>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:00:260) ::-::
+.sonido = <0>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:262) ::-::
+.sonido = <0>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+[UnidadDeControl][internalFunction][E] (00:00:00:262) ::-::
+.sonido = <0>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:264) ::-::
+.sonido = <0>
+.apertura = <1>
+.movimiento = <0>
+.sensores = <>
+.comando = <2111>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+[UnidadDeControl][internalFunction][E] (00:00:00:264) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:00:300) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ESPERANDO
+
+[UnidadDeControl][externalFunction][E] (00:00:00:300) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+[UnidadDeControl][internalFunction][E] (00:00:00:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:312) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:00:312) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:00:360) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:00:360) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:370) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:00:370) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:00:410) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:00:410) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:420) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:00:420) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:422) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+[UnidadDeControl][internalFunction][E] (00:00:00:422) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:424) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+[UnidadDeControl][internalFunction][E] (00:00:00:424) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:00:440) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ESPERANDO
+
+[UnidadDeControl][externalFunction][E] (00:00:00:440) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:450) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:00:450) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:00:700) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:00:700) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <2100>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:710) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <2100>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+[UnidadDeControl][internalFunction][E] (00:00:00:710) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <2100>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <0>
+.cantidadSonido = <0>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:712) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <2100>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <0>
+.cantidadSonido = <0>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:00:712) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <2100>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <0>
+.cantidadSonido = <0>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:714) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <2100>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <0>
+.cantidadSonido = <0>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+[UnidadDeControl][internalFunction][E] (00:00:00:714) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <2100>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <0>
+.cantidadSonido = <0>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:00:716) ::-::
+.sonido = <>
+.apertura = <0>
+.movimiento = <>
+.sensores = <>
+.comando = <2100>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <1>
+.cantidadMovimiento = <0>
+.cantidadSonido = <0>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+[UnidadDeControl][internalFunction][E] (00:00:00:716) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:01:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ESPERANDO
+
+[UnidadDeControl][externalFunction][E] (00:00:01:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:01:320) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:01:320) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:02:300) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:02:300) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:02:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+[UnidadDeControl][internalFunction][E] (00:00:02:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:02:312) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:02:312) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:06:300) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:06:300) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:06:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_COMANDOS
+
+[UnidadDeControl][internalFunction][E] (00:00:06:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:06:312) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:06:312) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:08:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:08:310) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:08:320) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:08:320) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:08:410) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:08:410) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:08:420) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:08:420) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:08:422) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+[UnidadDeControl][internalFunction][E] (00:00:08:422) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:08:424) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0,0>
+.sensores = <>
+.comando = <2011,2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0,0>
+.cantidadMovimiento = <1,1>
+.cantidadSonido = <1,1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+[UnidadDeControl][internalFunction][E] (00:00:08:424) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:08:426) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:08:426) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][externalFunction][B] (00:00:11:010) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][externalFunction][E] (00:00:11:010) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:11:020) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = RECIBIENDO_SENIALES
+
+[UnidadDeControl][internalFunction][E] (00:00:11:020) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:11:022) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ANALIZANDO_EVENTO
+
+[UnidadDeControl][internalFunction][E] (00:00:11:022) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+---------------------------------------------------------------------
+
+[UnidadDeControl][internalFunction][B] (00:00:11:024) ::-::
+.sonido = <0>
+.apertura = <>
+.movimiento = <0>
+.sensores = <>
+.comando = <2011>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <0>
+.cantidadMovimiento = <1>
+.cantidadSonido = <1>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ENVIANDO_ALARMA
+
+[UnidadDeControl][internalFunction][E] (00:00:11:024) ::-::
+.sonido = <>
+.apertura = <>
+.movimiento = <>
+.sensores = <>
+.comando = <>
+.comandoActivo = 0
+.alarma = 0
+.cantidadApertura = <>
+.cantidadMovimiento = <>
+.cantidadSonido = <>
+.rangoApertura = 0
+.nivelesApertura = 2
+.rangoMovimiento = 0
+.nivelesMovimiento = 2
+.rangoSonido = 0
+.nivelesSonido = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+

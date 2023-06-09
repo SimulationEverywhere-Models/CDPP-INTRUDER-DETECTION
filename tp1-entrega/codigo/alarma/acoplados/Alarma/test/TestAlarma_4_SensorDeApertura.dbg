@@ -1,0 +1,96 @@
+[SensorDeApertura][externalFunction][B] (00:00:00:200) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ESPERANDO
+
+[SensorDeApertura][externalFunction][E] (00:00:00:200) ::-::
+.activado = 1
+.apertura = 1
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:210) ::-::
+.activado = 1
+.apertura = 1
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeApertura][internalFunction][E] (00:00:00:210) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:210) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+[SensorDeApertura][internalFunction][E] (00:00:00:210) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][externalFunction][B] (00:00:00:430) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ESPERANDO
+
+[SensorDeApertura][externalFunction][E] (00:00:00:430) ::-::
+.activado = 1
+.apertura = 0
+.senial = 1
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:440) ::-::
+.activado = 1
+.apertura = 0
+.senial = 1
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeApertura][internalFunction][E] (00:00:00:440) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:440) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+[SensorDeApertura][internalFunction][E] (00:00:00:440) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+

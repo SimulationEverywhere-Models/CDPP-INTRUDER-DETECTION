@@ -1,0 +1,224 @@
+[SensorDeApertura][externalFunction][B] (00:00:00:100) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeApertura][externalFunction][E] (00:00:00:100) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][outputFunction][B] (00:00:00:110) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeApertura][outputFunction][E] (00:00:00:110) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:110) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeApertura][internalFunction][E] (00:00:00:110) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][outputFunction][B] (00:00:00:110) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+[SensorDeApertura][outputFunction][E] (00:00:00:110) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:110) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+[SensorDeApertura][internalFunction][E] (00:00:00:110) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = MANTENER_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][externalFunction][B] (00:00:00:120) ::-::
+.activado = 1
+.apertura = 0
+.senial = 0
+.comando = 0
+.estado = MANTENER_SENIAL
+
+[SensorDeApertura][externalFunction][E] (00:00:00:120) ::-::
+.activado = 1
+.apertura = 1
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][outputFunction][B] (00:00:00:130) ::-::
+.activado = 1
+.apertura = 1
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeApertura][outputFunction][E] (00:00:00:130) ::-::
+.activado = 1
+.apertura = 1
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:130) ::-::
+.activado = 1
+.apertura = 1
+.senial = 0
+.comando = 0
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeApertura][internalFunction][E] (00:00:00:130) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][outputFunction][B] (00:00:00:130) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+[SensorDeApertura][outputFunction][E] (00:00:00:130) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:130) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+[SensorDeApertura][internalFunction][E] (00:00:00:130) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = MANTENER_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][outputFunction][B] (00:00:00:180) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = MANTENER_SENIAL
+
+[SensorDeApertura][outputFunction][E] (00:00:00:180) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = MANTENER_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:180) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = MANTENER_SENIAL
+
+[SensorDeApertura][internalFunction][E] (00:00:00:180) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][outputFunction][B] (00:00:00:180) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+[SensorDeApertura][outputFunction][E] (00:00:00:180) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeApertura][internalFunction][B] (00:00:00:180) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = ENVIAR_SENIAL
+
+[SensorDeApertura][internalFunction][E] (00:00:00:180) ::-::
+.activado = 1
+.apertura = 1
+.senial = 1
+.comando = 0
+.estado = MANTENER_SENIAL
+
+---------------------------------------------------------------------
+

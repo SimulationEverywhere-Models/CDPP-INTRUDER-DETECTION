@@ -1,0 +1,240 @@
+[SensorDeMovimiento][externalFunction][B] (00:00:00:220) ::-::
+.activado = 1
+.movimiento = 0
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+[SensorDeMovimiento][externalFunction][E] (00:00:00:220) ::-::
+.activado = 1
+.movimiento = 4
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][internalFunction][B] (00:00:00:230) ::-::
+.activado = 1
+.movimiento = 4
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeMovimiento][internalFunction][E] (00:00:00:230) ::-::
+.activado = 1
+.movimiento = 4
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][internalFunction][B] (00:00:00:230) ::-::
+.activado = 1
+.movimiento = 4
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+[SensorDeMovimiento][internalFunction][E] (00:00:00:230) ::-::
+.activado = 1
+.movimiento = 4
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][externalFunction][B] (00:00:00:350) ::-::
+.activado = 1
+.movimiento = 4
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+[SensorDeMovimiento][externalFunction][E] (00:00:00:350) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][internalFunction][B] (00:00:00:360) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeMovimiento][internalFunction][E] (00:00:00:360) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][internalFunction][B] (00:00:00:360) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+[SensorDeMovimiento][internalFunction][E] (00:00:00:360) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][externalFunction][B] (00:00:01:300) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+[SensorDeMovimiento][externalFunction][E] (00:00:01:300) ::-::
+.activado = 1
+.movimiento = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][internalFunction][B] (00:00:01:310) ::-::
+.activado = 1
+.movimiento = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeMovimiento][internalFunction][E] (00:00:01:310) ::-::
+.activado = 1
+.movimiento = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][internalFunction][B] (00:00:01:310) ::-::
+.activado = 1
+.movimiento = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+[SensorDeMovimiento][internalFunction][E] (00:00:01:310) ::-::
+.activado = 1
+.movimiento = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][externalFunction][B] (00:00:08:300) ::-::
+.activado = 1
+.movimiento = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+[SensorDeMovimiento][externalFunction][E] (00:00:08:300) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][internalFunction][B] (00:00:08:310) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeMovimiento][internalFunction][E] (00:00:08:310) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeMovimiento][internalFunction][B] (00:00:08:310) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+[SensorDeMovimiento][internalFunction][E] (00:00:08:310) ::-::
+.activado = 1
+.movimiento = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+

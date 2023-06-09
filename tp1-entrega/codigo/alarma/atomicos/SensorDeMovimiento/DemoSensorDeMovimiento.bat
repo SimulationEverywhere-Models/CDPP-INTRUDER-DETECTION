@@ -1,0 +1,1 @@
+simu -mSensorDeMovimiento.ma -eSensorDeMovimiento.ev -lSensorDeMovimiento.log -oSensorDeMovimiento.out

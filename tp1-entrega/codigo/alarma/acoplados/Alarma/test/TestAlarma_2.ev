@@ -1,0 +1,16 @@
+00:00:00:100 comando_in 2100
+00:00:00:200 apertura_in 1
+00:00:00:300 comando_in 2110
+00:00:00:400 apertura_in 1
+00:00:00:500 movimiento_in 5
+00:00:00:600 comando_in 12210
+00:00:00:650 comando_in 1232
+00:00:00:700 comando_in 2110
+00:00:00:800 apertura_in 1
+00:00:00:900 movimiento_in 3
+00:00:00:700 apertura_in 2110
+00:00:01:000 apertura_in 1
+00:00:01:100 movimiento_in 7
+00:00:00:700 apertura_in 2110
+00:00:01:200 apertura_in 1
+00:00:01:300 movimiento_in 4

@@ -1,0 +1,240 @@
+[SensorDeSonido][externalFunction][B] (00:00:00:240) ::-::
+.activado = 1
+.sonido = 0
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+[SensorDeSonido][externalFunction][E] (00:00:00:240) ::-::
+.activado = 1
+.sonido = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][internalFunction][B] (00:00:00:250) ::-::
+.activado = 1
+.sonido = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeSonido][internalFunction][E] (00:00:00:250) ::-::
+.activado = 1
+.sonido = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][internalFunction][B] (00:00:00:250) ::-::
+.activado = 1
+.sonido = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+[SensorDeSonido][internalFunction][E] (00:00:00:250) ::-::
+.activado = 1
+.sonido = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][externalFunction][B] (00:00:00:400) ::-::
+.activado = 1
+.sonido = 3
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+[SensorDeSonido][externalFunction][E] (00:00:00:400) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][internalFunction][B] (00:00:00:410) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeSonido][internalFunction][E] (00:00:00:410) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][internalFunction][B] (00:00:00:410) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+[SensorDeSonido][internalFunction][E] (00:00:00:410) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][externalFunction][B] (00:00:08:400) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+[SensorDeSonido][externalFunction][E] (00:00:08:400) ::-::
+.activado = 1
+.sonido = 1
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][internalFunction][B] (00:00:08:410) ::-::
+.activado = 1
+.sonido = 1
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeSonido][internalFunction][E] (00:00:08:410) ::-::
+.activado = 1
+.sonido = 1
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][internalFunction][B] (00:00:08:410) ::-::
+.activado = 1
+.sonido = 1
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+[SensorDeSonido][internalFunction][E] (00:00:08:410) ::-::
+.activado = 1
+.sonido = 1
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][externalFunction][B] (00:00:11:000) ::-::
+.activado = 1
+.sonido = 1
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+[SensorDeSonido][externalFunction][E] (00:00:11:000) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][internalFunction][B] (00:00:11:010) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESTIMULO_RECIBIDO
+
+[SensorDeSonido][internalFunction][E] (00:00:11:010) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+---------------------------------------------------------------------
+
+[SensorDeSonido][internalFunction][B] (00:00:11:010) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ENVIAR_SENIAL
+
+[SensorDeSonido][internalFunction][E] (00:00:11:010) ::-::
+.activado = 1
+.sonido = 2
+.senial = 0
+.comando = 0
+.rango = 10
+.niveles = 2
+.estado = ESPERANDO
+
+---------------------------------------------------------------------
+

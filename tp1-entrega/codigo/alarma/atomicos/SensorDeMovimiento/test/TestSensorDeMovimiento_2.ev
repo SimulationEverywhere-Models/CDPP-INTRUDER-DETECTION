@@ -1,0 +1,13 @@
+00:00:00:100 movimiento_in 2
+00:00:00:120 movimiento_in 3
+00:00:00:300 cmd_movimiento_in 10
+00:00:00:500 movimiento_in 9
+00:00:00:700 movimiento_in 8
+00:00:00:900 movimiento_in 9
+00:00:00:950 cmd_movimiento_in 11
+00:00:01:100 movimiento_in 5
+00:00:01:140 movimiento_in 3
+00:00:01:200 movimiento_in 7
+00:00:02:00 movimiento_in 1
+00:00:04:100 movimiento_in 2
+00:00:10:00 cmd_movimiento_in 10

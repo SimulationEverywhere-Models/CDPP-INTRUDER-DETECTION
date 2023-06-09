@@ -1,0 +1,1 @@
+simu -mLog.ma -eLog.ev -lLog.log -oLog.out

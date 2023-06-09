@@ -1,0 +1,13 @@
+00:00:00:100 apertura_in 0
+00:00:00:120 apertura_in 1
+00:00:00:300 cmd_apertura_in 0
+00:00:00:500 apertura_in 0
+00:00:00:700 apertura_in 1
+00:00:00:900 apertura_in 0
+00:00:00:950 cmd_apertura_in 1
+00:00:01:100 apertura_in 1
+00:00:01:140 apertura_in 0
+00:00:01:200 apertura_in 0
+00:00:02:00 apertura_in 1
+00:00:04:100 apertura_in 0
+00:00:10:00 cmd_apertura_in 0

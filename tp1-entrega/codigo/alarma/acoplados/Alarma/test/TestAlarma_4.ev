@@ -1,0 +1,15 @@
+00:00:00:100 comando_in 2111
+00:00:00:200 apertura_in 1
+00:00:00:220 movimiento_in 4
+00:00:00:240 sonido_in 3
+00:00:00:300 comando_in 2011
+00:00:00:350 movimiento_in 3
+00:00:00:400 sonido_in 2
+00:00:00:430 apertura_in 0
+00:00:00:700 comando_in 2100
+00:00:01:300 movimiento_in 2
+00:00:02:300 comando_in 2011
+00:00:06:300 comando_in 2011
+00:00:08:300 movimiento_in 3
+00:00:08:400 sonido_in 1
+00:00:11:000 sonido_in 2
